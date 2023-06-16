@@ -1,0 +1,8 @@
+For storing variable data in an excel file
+ 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    filename1 = 'myFile.xlsx';  % Replace this with your filename
+    writematrix(LoadedData, filename1);  % Replace writematrix with writecell if myData is a cell array
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
